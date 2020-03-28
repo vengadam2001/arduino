@@ -8,7 +8,7 @@ int c2=11;
 int c3=10;
 int c4=9;
 int c5=8;
-int t=5;
+int t=2;
 char ch='a';
 void setup()
   
